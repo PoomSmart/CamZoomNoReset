@@ -1,0 +1,8 @@
+Package: org.thebigboss.camzoomnoreset
+Name: CamVolNormal
+Depends: mobilesubstrate, firmware (>= 4.0), gsc.still-camera | gsc.front-facing-camera
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Zoom value in camera won't reset automatically.
+Author: PoomSmart
+Section: Tweaks
