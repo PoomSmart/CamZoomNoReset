@@ -17,12 +17,7 @@
 
 - (void)_resetZoom
 {
-	// iOS 5 and 6
-	PLCameraZoomSlider *slider = MSHookIvar<PLCameraZoomSlider *>(self, "_zoomSlider");
-	[slider makeInvisible];
-	float zoomFactor = [[%c(PLCameraController) sharedInstance] zoomFactor];
-	[slider setValue:zoomFactor];
-	[self _setZoomFactor:zoomFactor];
+	return;
 }
 
 - (void)cameraControllerPreviewDidStart:(id)arg
