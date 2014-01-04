@@ -1,5 +1,5 @@
 Package: org.thebigboss.camzoomnoreset
-Name: CamVolNormal
+Name: CamZoomNoReset
 Depends: mobilesubstrate, firmware (>= 4.0), gsc.still-camera | gsc.front-facing-camera
 Version: 1.0
 Architecture: iphoneos-arm
