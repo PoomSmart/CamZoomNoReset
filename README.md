@@ -1,6 +1,6 @@
 CamZoomNoReset
 =====================================
 
-Prevent camera from resetting zoom value when changing mode.
+Prevent camera from resetting zoom value automatically.
 
-Compatible with iOS 4, 5, and 6.
+Compatible with iOS 4, 5, 6 ans 7.
